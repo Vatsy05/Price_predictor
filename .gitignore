@@ -1,0 +1,40 @@
+# === Data & features (large / private) ===
+dataset/
+features/
+embeddings/
+images/
+
+# Notebooks cache
+.ipynb_checkpoints/
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Large arrays / models (safety)
+*.npy
+*.npz
+*.pt
+*.h5
+*.onnx
+*.bin
+*.ckpt
+*.joblib
+*.model
+
+# Zips and temporary
+*.zip
+*.tar
+*.tar.gz
+
+# Virtual envs / OS files
+venv/
+.env
+.DS_Store
+
+# Submissions: keep only the tuned one
+submissions/*
+!submissions/submission_lgb_tuned.csv
