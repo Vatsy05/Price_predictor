@@ -17,6 +17,7 @@ The final evaluation metric was **SMAPE (Symmetric Mean Absolute Percentage Erro
 ---
 
 ## 📂 Project Structure  
+'''
 
 hackathon-data/
 │
@@ -39,8 +40,7 @@ hackathon-data/
 ├── requirements.txt # dependencies
 ├── README.md # project documentation
 └── .gitignore # ignores data, models, caches
-
-
+'''
 ---
 
 ## ⚙️ Approach  
@@ -72,20 +72,6 @@ hackathon-data/
 
 ---
 
-## 🚀 How to Run  
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<your-username>/amazon-hackathon.git
-   cd amazon-hackathon
-2. Install dependencies
-''' bash
-pip install -r requirements.txt
-
-
-3. Open notebooks for exploration
-'''bash
-jupyter notebook
 
 ## 🛠️ Tech Stack
 
