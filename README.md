@@ -17,8 +17,8 @@ The final evaluation metric was **SMAPE (Symmetric Mean Absolute Percentage Erro
 ---
 
 ## 📂 Project Structure  
-'''
 
+```
 hackathon-data/
 │
 ├── student_resource/
@@ -40,7 +40,7 @@ hackathon-data/
 ├── requirements.txt # dependencies
 ├── README.md # project documentation
 └── .gitignore # ignores data, models, caches
-'''
+```
 ---
 
 ## ⚙️ Approach  
